@@ -1,4 +1,4 @@
-# Abricotine Cutomized DarkTheme
+# Abricotine Custom Theme
 
 ## Install
 
